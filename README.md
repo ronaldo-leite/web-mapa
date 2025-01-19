@@ -1,3 +1,6 @@
 WEB Mapa:
 
-Para acessá-lo, use o link: <https://github.com/ronaldo-leite/web-mapa>
+Para acessá-lo, use o link: <https://ronaldo-leite.github.io/web-mapa/>
+
+Atenciosamente,
+Ronaldo Leite
